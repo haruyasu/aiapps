@@ -4,4 +4,4 @@ db.sqlite3
 __pycache__
 .DS_Store
 staticfiles
-*.h5
+# *.h5
